@@ -1,4 +1,0 @@
-agents
-infrastructure
-networks
-scripts
